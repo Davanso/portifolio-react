@@ -10,13 +10,13 @@ Welcome to my portfolio! This project is developed using React and Next.js to sh
 
 ## 📜 How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   ```git clone https://github.com/your-username/your-repository.git```
+   ```cd your-repository```
 2. Install the dependencies:
-   npm install
+   ```npm install```
 3. Start the development server:
-   npm run dev
-4. Open your browser and go to http://localhost:3000 to view the portfolio in action.
+   ```npm run dev```
+4. Open your browser and go to ```http://localhost:3000``` to view the portfolio in action.
    
 
 ## 🔋 Features
