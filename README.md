@@ -34,7 +34,7 @@ Welcome to my portfolio! This project is developed using React and Next.js to sh
 
 🌟 Responsiveness: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
 
-##💬 Contact
+## 💬 Contact
 If you’d like to get in touch or discuss opportunities, feel free to email me at gui.social.ti@gmail.com or follow me on social media:
 
 LinkedIn -> https://www.linkedin.com/in/guilherme-destro-davanso/
