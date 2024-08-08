@@ -6,7 +6,7 @@ import { projects } from "../data";
 import { PinContainer } from "./ui/Pin";
 
 const RecentProjects = () => {
-  return (
+ /* return (
     <div className="py-20">
       <h1 className="heading">
         A small selection of{" "}
@@ -77,7 +77,7 @@ const RecentProjects = () => {
         ))}
       </div>
     </div>
-  );
+  );*/
 };
 
 export default RecentProjects;
