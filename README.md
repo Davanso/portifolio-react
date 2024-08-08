@@ -3,20 +3,20 @@
 Welcome to my portfolio! This project is developed using React and Next.js to showcase my projects and skills in Information Technology. Explore the sections to learn more about my work and how to get in touch.
 
 ## 🚀 Technologies Used
-- **React**: JavaScript library for building user interfaces.
-- **Next.js**: React framework for server-side rendering and static site generation.
-- **Tailwind CSS**: CSS framework for fast and responsive styling.
-- **Three.js**: Popular JavaScript library used for creating and displaying 3D graphics in a web browser. 
+- *React*: JavaScript library for building user interfaces.
+- *Next.js*: React framework for server-side rendering and static site generation.
+- *Tailwind CSS*: CSS framework for fast and responsive styling.
+- *Three.js*: Popular JavaScript library used for creating and displaying 3D graphics in a web browser. 
 
 ## 📜 How to Run the Project
 1. Clone the repository:
-   ```git clone https://github.com/Davanso/Portifolio.git```
-   ```cd your-repository```
+   git clone https://github.com/Davanso/Portifolio.git
+   cd your-repository
 2. Install the dependencies:
-   ```npm install```
+   npm install
 3. Start the development server:
-   ```npm run dev```
-4. Open your browser and go to ```http://localhost:3000``` to view the portfolio in action.
+   npm run dev
+4. Open your browser and go to http://localhost:3000 to view the portfolio in action.
    
 
 ## 🔋 Features
