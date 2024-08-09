@@ -7,7 +7,6 @@ import Grid from "../../components/Grid";
 import Footer from "../../components/Footer";
 import Approach from "../../components/Approach";
 import Experience from "../../components/Experience";
-import RecentProjects from "../../components/RecentProjects";
 import Hero from "../../components/Hero";
 import { FloatingNav } from "../../components/ui/FloatingNavBar";
 
@@ -18,7 +17,6 @@ const Home = () => {
         <FloatingNav navItems={navItems} />
         <Hero />
         <Grid />
-        <RecentProjects />
         <Experience />
         <Approach />
         <Footer />
