@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently studying Front end and their respective frameworks",
+    title: "Currently working at intern developer at John Deere",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -70,7 +70,7 @@ export const gridItems = [
 ];
 
 export const projects = [
-   /*{
+  /*{
     id: 1,
     title: "Weather App",
     des: "Is better to see the weather before you go to work.",
@@ -138,22 +138,22 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Automation Intern",
-    desc: "Assisted in the development of several automation projects, mostly using Python",
+    title: "Intern Developer at John Deere",
+    desc: "Experience in Front and Back end, React, NodeJs, Git, Typescript, TDD, Cypress and more!",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/jd_logo.svg",
   },
   {
     id: 2,
     title: "Automation Technician",
-    desc: "Development of bigger projects, ethanol and glycerin factory 'Inpasa', dashboard to 'Rockwell'",
+    desc: "Development of automation projects, using PLCs, SCADA. Dashboard in Python and Grafana",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Project to my college",
-    desc: "Leader of a group of students to make a tank level control system, using Arduino and valves",
+    desc: "Leader of a group of students to make an app to help the older people to find deal with a bank app",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
@@ -180,6 +180,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/guilherme-destro-davanso/",
+    url: "https://www.linkedin.com/in/guilherme-destro-davansodev/",
   },
 ];
